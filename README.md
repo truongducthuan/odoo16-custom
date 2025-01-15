@@ -62,3 +62,10 @@ pip install -r requirements.txt
 ./odoo-bin
 ```
 
+* My Account
+Email: ```
+          thuan.truong.dev@gmail.com
+          ```
+Password: ```
+          123456789
+          ```
